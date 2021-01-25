@@ -1,0 +1,35 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    border: 10px;
+    border-radius: 20px;
+    width: 310px;
+    font-family: fantasy;
+}
+
+body{
+    background-color: #A1D6F2;
+    margin: 0px;
+}
+
+.origami{
+    padding: 3cm;
+    margin: 30px;
+}
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
+
+.origami img{
+    position: relative;
+}
